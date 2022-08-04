@@ -1,0 +1,17 @@
+body {
+	background: #FF0000;
+}
+
+#banner{
+	width: 100%;
+}
+
+
+p {
+    font-size: 22px;
+	text-align: center;
+}
+
+em strong {
+	color: #FFFFFF; 
+}
